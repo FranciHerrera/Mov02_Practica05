@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Camara de android</string>
+    <string name="titulo">Gestión de cámara</string>
+    <string name="menu1">Lector Barras/QR</string>
+    <string name="menu2">Tomar foto</string>
+    <!--Activity Lector-->
+    <string name="titulo1">Lector de Barra y QR</string>
+    <string name="escanear">Escanear</string>
+    <string name="res">Código</string>
+    <string name="descripcion">Captura descripción</string>
+    <string name="nombre">Nombre del producto</string>
+    <string name="precio">Precio del producto</string>
+    <string name="capturar">Capturar</string>
+    <string name="limpiar">Limpiar</string>
+    <string name="buscar">Buscar</string>
+    <!--Activity Foto-->
+    <string name="foto">Tomar fotografía</string>
+    <string name="guardar">Guardar fotografía</string>
+    <string name="todo">TODO</string>
+</resources>
